@@ -1,0 +1,71 @@
+.logo{
+    max-width: 40px
+}
+
+.logofooter{
+    max-width: 130px
+}
+
+.button-collapse{
+    color:#3F51B5 !important;
+}
+
+.parallax-container{
+    background-image: url(../img/tablet.jpg);
+    background-size: cover;
+}
+
+.banner{
+    text-align: center;
+}
+
+.banner h2{
+    margin-top: 25%;
+    font-size: 35pt;
+}
+
+.banner p{
+    font-size: 15pt
+}
+
+.banner a{
+    width: 50%;
+}
+
+.prod{
+    margin:12%;
+    max-width: 80%;
+}
+
+.prode{
+    margin-top: 26%
+}
+
+.treino{
+    width: 100%;
+    height: auto;
+    padding-bottom: 3%;
+    background: rgba(0,0,0,0.1);
+}
+
+.usage{
+    margin-top: 7%;
+}
+
+.card-image{
+    height:300px;
+}
+
+.usa{
+    height: auto;
+}
+
+.imglogo{
+    margin: 30px;
+    max-width: 70px
+}
+
+.tabs .indicator{
+    background-color:#3F51B5;
+}
+

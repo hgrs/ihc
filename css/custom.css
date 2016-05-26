@@ -1,22 +1,23 @@
 .logo{
-    max-width: 40px
+    max-width: 55px
 }
 
 .logofooter{
     max-width: 130px
 }
 
+
+
 .button-collapse{
     color:#3F51B5 !important;
 }
 
 .parallax-container{
-    background-image: url(../img/tablet.jpg);
+    background-image: url(../img/technologyinourhands.jpg);
     background-size: cover;
 }
 
 .banner{
-    text-align: center;
 }
 
 .banner h2{
@@ -69,3 +70,36 @@
     background-color:#3F51B5;
 }
 
+
+
+.parallaxx {
+    position: relative;
+    overflow: hidden;
+    height: 500px;
+    max-height: 400px
+}
+.parallax {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1
+}
+.parallax img {
+    display: none;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    transform: translateX(-50%)
+}
+
+
+.usage img{
+    max-width: 150px;
+    margin: 15px;
+}
